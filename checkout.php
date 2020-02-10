@@ -22,8 +22,12 @@
 
 
     // if an error message exists, go to the index page
+   if ($error_message != ''){
+    include(index.php);
+    exit();
+   }
     
-     // calculate the sub total, sales tax and total
+    // calculate the sub total, sales tax and total
     
   
 
