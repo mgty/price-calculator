@@ -11,7 +11,7 @@
 <html>
 <head>
     <title>Cashier</title>
-    <link rel="stylesheet" type="text/css" href="YapAss1.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 
 <body>

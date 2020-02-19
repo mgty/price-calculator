@@ -45,7 +45,7 @@
 <head>
    
     <title>Checkout</title>
-    <link rel="stylesheet" type="text/css" href="main1.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
     <main>
